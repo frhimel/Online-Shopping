@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/frhim/CLionProjects/26 Jan Online Shopping/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+cstdlib
+-
+
